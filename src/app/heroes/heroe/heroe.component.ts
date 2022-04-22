@@ -25,5 +25,6 @@ export class HeroeComponent{
 
     cambiarEdad(): void{
         this.edad = 30;
+
     }
 }
